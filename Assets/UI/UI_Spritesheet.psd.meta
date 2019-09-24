@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 616a5b81d182e8d4cb9fda8c3e1b369a
+timeCreated: 1495119012
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Start_PlayNormal
+    21300002: Start_ExtrasHighlighted
+    21300004: Start_QuitHighlighted
+    21300006: Start_PlayHighlighted
+    21300008: Start_Extras_normal
+    21300010: Start_QuitNormal
+    21300012: Play_1v1Normal
+    21300014: Play_2v2Normal
+    21300016: Play_BackNormal
+    21300018: Extras_TrailerNormal
+    21300020: Extras_CreditsNormal
+    21300022: Extras_BackNormal
+    21300024: Quit_YesNormal
+    21300026: Quit_NoNormal
+    21300028: Play_1v1Highighted
+    21300030: Play_2v2Highlighted
+    21300032: Play_BackHighlighted
+    21300034: Extras_TrailerHighlighted
+    21300036: Extras_CreditsHighlighted
+    21300038: Extras_BackHighlighted
+    21300040: Quit_YesHighlighted
+    21300042: Quit_NoHighlighted
+    21300044: Play
+    21300046: Quit
+    21300048: Credits
+    21300050: Extras
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: 12
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Start_PlayNormal
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1996
+        width: 139
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Start_ExtrasHighlighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1916
+        width: 306
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Start_QuitHighlighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836
+        width: 206
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Start_PlayHighlighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1996
+        width: 206
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Start_Extras_normal
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1917
+        width: 219
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Start_QuitNormal
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1836
+        width: 138
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Play_1v1Normal
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1758
+        width: 137
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Play_2v2Normal
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1676
+        width: 143
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Play_BackNormal
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1600
+        width: 148
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Extras_TrailerNormal
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1520
+        width: 241
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Extras_CreditsNormal
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1444
+        width: 239
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Extras_BackNormal
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1360
+        width: 147
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Quit_YesNormal
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1282
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Quit_NoNormal
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1198
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Play_1v1Highighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 211
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Play_2v2Highlighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1677
+        width: 215
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Play_BackHighlighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 218
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Extras_TrailerHighlighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 334
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Extras_CreditsHighlighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1443
+        width: 333
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Extras_BackHighlighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1358
+        width: 217
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Quit_YesHighlighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1282
+        width: 158
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Quit_NoHighlighted
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1198
+        width: 125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Play
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1031
+        width: 342
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Quit
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 757
+        width: 765
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Credits
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 831
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Extras
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 904
+        width: 544
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
